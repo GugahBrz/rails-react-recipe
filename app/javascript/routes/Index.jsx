@@ -7,7 +7,6 @@ export default (
   <Router>
     <Switch>
       <Route path="/" exact component={Home} />
-      <Route path="/objectives" exact component={<>test</>} />
     </Switch>
   </Router>
 );
